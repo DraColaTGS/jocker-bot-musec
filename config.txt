@@ -1,6 +1,6 @@
 token= NTkyMDU4NjQwODQwNzg1OTIx.XQ504g.sDC9VXcBOmCykpfwIkMyBrDC5gw
 owner= 439020996171923466 
 prefix= 6
-game= JoKeR | 1Help
+game= JoKeR | 6help
 stayinchannel=true
 songinstatus=false
